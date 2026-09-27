@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["YJ6R8757X4.com.philtarimo.Gridlace"],
+        "appID": "YJ6R8757X4.com.philtarimo.Gridlace",
+        "components": [{ "/": "/gridlace/tiktok/*" }],
+        "paths": ["/gridlace/tiktok/*"]
+      }
+    ]
+  }
+}
